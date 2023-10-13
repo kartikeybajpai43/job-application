@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #dff805;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+
+}
+.apply_box{
+    max-width: 600px;
+    padding: 20px;
+    background-color: blue;
+    border: 5px solid red;
+}
+button{
+    color: rgb(243, 237, 238);
+    background-color: #f40a0a;
+    position: relative;
+    left: 300px;
+}
